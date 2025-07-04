@@ -42,7 +42,7 @@
 
 ## 🤝 Hamkorlik qilishni istaysizmi?
 
-Agar biror loyiha yoki g‘oya ustida birga ishlamoqchi bo‘lsangiz, bemalol bog‘laning. Mening elektron pochtam: **sarvarbek@example.com** yoki [Telegram](https://t.me/username) orqali.
+Agar biror loyiha yoki g‘oya ustida birga ishlamoqchi bo‘lsangiz, bemalol bog‘laning. Mening elektron pochtam: **sarvarbekesonaliyev02@gmail.com** yoki [Telegram](https://t.me/Sarvarbek_Esonaliyew) orqali.
 
 ---
 
