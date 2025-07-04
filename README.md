@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Salom 👋, men Sarvarbek Esonaliyev</h1>
+<h3 align="center">Frontend dasturchi | HTML, CSS, JS, React</h3>
 
-<!--
-**sarvarbeke/sarvarbeke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hozirda ishlayapman: **Portfolio, mini loyihalar**
 
-Here are some ideas to get you started:
+- 🌱 Hozirda o‘rganayotgan texnologiyalar: **ReactJS, TailwindCSS, Git**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Menga savol bering: **HTML, CSS, JavaScript, Git haqida**
+
+- 📫 Murojaat qilish: **sarvarbek@example.com**
+
+- ⚡ Qiziqarli fakt: **Men dizayn va interaktiv veb sahifalarni yaratishni yaxshi ko‘raman!**
+
+---
+
+### 🛠️ Texnologiyalar va Vositalar
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub statistikasi
+
+![Sarvarbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarvarbek&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvarbek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
